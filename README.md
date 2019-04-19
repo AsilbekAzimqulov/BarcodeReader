@@ -111,3 +111,4 @@ If you want to scan for a very specific combination of barcodes you can setup th
 
 # BarcodeScanner
 # BarcodeReader
+# BarcodeReader
